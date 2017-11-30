@@ -1,0 +1,13 @@
+c:\users\core i7 pavilion 17\documents\visual studio 2015\Projects\Pie_Factory\Pie_Factory\bin\Debug\Pie_Factory.exe.config
+c:\users\core i7 pavilion 17\documents\visual studio 2015\Projects\Pie_Factory\Pie_Factory\bin\Debug\Pie_Factory.exe
+c:\users\core i7 pavilion 17\documents\visual studio 2015\Projects\Pie_Factory\Pie_Factory\bin\Debug\Pie_Factory.pdb
+c:\users\core i7 pavilion 17\documents\visual studio 2015\Projects\Pie_Factory\Pie_Factory\obj\Debug\Pie_Factory.csprojResolveAssemblyReference.cache
+c:\users\core i7 pavilion 17\documents\visual studio 2015\Projects\Pie_Factory\Pie_Factory\obj\Debug\Pie_Factory.exe
+c:\users\core i7 pavilion 17\documents\visual studio 2015\Projects\Pie_Factory\Pie_Factory\obj\Debug\Pie_Factory.pdb
+C:\Users\Core i7 Pavilion 17\Desktop\PieFactoryMain\pie-factory\Pie_Factory\bin\Debug\Pie_Factory.exe.config
+C:\Users\Core i7 Pavilion 17\Desktop\PieFactoryMain\pie-factory\Pie_Factory\bin\Debug\Pie_Factory.exe
+C:\Users\Core i7 Pavilion 17\Desktop\PieFactoryMain\pie-factory\Pie_Factory\bin\Debug\Pie_Factory.pdb
+C:\Users\Core i7 Pavilion 17\Desktop\PieFactoryMain\pie-factory\Pie_Factory\obj\Debug\Pie_Factory.csprojResolveAssemblyReference.cache
+C:\Users\Core i7 Pavilion 17\Desktop\PieFactoryMain\pie-factory\Pie_Factory\obj\Debug\Pie_Factory.csproj.CoreCompileInputs.cache
+C:\Users\Core i7 Pavilion 17\Desktop\PieFactoryMain\pie-factory\Pie_Factory\obj\Debug\Pie_Factory.exe
+C:\Users\Core i7 Pavilion 17\Desktop\PieFactoryMain\pie-factory\Pie_Factory\obj\Debug\Pie_Factory.pdb
